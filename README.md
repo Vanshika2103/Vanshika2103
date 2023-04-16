@@ -13,6 +13,6 @@ Hi, I’m @Vanshika2103<br>👀 I’m interested in Web development, Learning Co
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Vanshika Gupta&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
